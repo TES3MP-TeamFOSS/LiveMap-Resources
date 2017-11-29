@@ -5,5 +5,5 @@ Base resources for the TES3MP
 
 ## Note
 
-The files in this repository serve only as base resources and are
-therefore for converting purposes only.
+The files in this repository serve only as base resources and are not
+required to use [LiveMap](https://github.com/TES3MP-TeamFOSS/LiveMap).
